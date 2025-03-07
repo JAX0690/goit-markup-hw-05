@@ -450,7 +450,7 @@ text-align: left;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.2em;
+    letter-spacing: 0.02em;
     color: #ffffff;
 }
 .form-item {
@@ -464,9 +464,9 @@ text-align: left;
     background-color: transparent;
     font-size: 12px;
     line-height: 2;
-    letter-spacing: 0.4em;
+    letter-spacing: 0.04em;
     padding-left: 16px;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0.5);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
     border-radius: 4px;
     color: #FFFFFF;
 
